@@ -1,4 +1,4 @@
-# Yashar Heidari â€” Business Analyst Portfolio
+# Yashar Heidari — Business Analyst Portfolio
 
 Requirements, BPMN, root-cause analysis, and decision dashboards.
 
@@ -13,7 +13,7 @@ Business Analyst with 5 years of experience translating cross-functional busines
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/business-analyst
