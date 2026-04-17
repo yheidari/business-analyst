@@ -1,11 +1,10 @@
 # Yashar Heidari — Business Analyst Portfolio
 
-Requirements, BPMN, root-cause analysis, and decision dashboards.
+Professional landing page and experience summary.
 
 ## Live
 
-- Live site: https://yheidari.github.io/business-analyst/
-- Repository: https://github.com/yheidari/business-analyst
+- Site: https://yheidari.github.io/business-analyst/
 
 ## Profile
 
@@ -13,7 +12,6 @@ Business Analyst with 5 years of experience translating cross-functional busines
 
 ## Contact
 
-- Location: Messina, Italy · Open to Remote
+- Location: Messina, Italy | Open to remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
-- GitHub: https://github.com/yheidari/business-analyst
